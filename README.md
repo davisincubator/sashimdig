@@ -3,6 +3,9 @@ project_name
 
 Kaggle Fish Identification
 
+![alt text](./references/species-ref-key.jpg)
+
+
 Project Organization
 ------------
 
