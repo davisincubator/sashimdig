@@ -1,4 +1,4 @@
-project_name
+sashimidig
 ==============================
 
 Kaggle Fish Identification
