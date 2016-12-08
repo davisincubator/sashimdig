@@ -3,6 +3,8 @@ sashimidig
 
 Kaggle Fish Identification
 
+Find processed data in my (Abbie's) [box](https://ucdavis.box.com/s/ubdzqp6fkfgqvvzskqdo7ta8f8cnozu7). It was larger than github's size limit. I'll invite you if you don't have permission to view!
+
 ![alt text](./references/species-ref-key.jpg)
 
 
