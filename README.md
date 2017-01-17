@@ -2,7 +2,9 @@ sashimidig
 ==============================
 ##Links we Used for Deep Learning Tutorial
 [Quick Intro to Neural Nets](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
+
 [Intuitive Intro to Convolutional Neural Nets](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+
 [TensorFlow Playground](http://playground.tensorflow.org/)
 
 ##Processed Data
