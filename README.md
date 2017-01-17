@@ -1,14 +1,18 @@
 sashimidig
 ==============================
+##Links we Used for Deep Learning Tutorial
+[Quick Intro to Neural Nets](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
+[Intuitive Intro to Convolutional Neural Nets](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+[TensorFlow Playground](http://playground.tensorflow.org/)
 
-Kaggle Fish Identification
-
+##Processed Data
 Find processed data in my (Abbie's) [box](https://ucdavis.box.com/s/ubdzqp6fkfgqvvzskqdo7ta8f8cnozu7). It was larger than github's size limit. I'll invite you if you don't have permission to view!
 
+##Kaggle Fish Identification Image
 ![alt text](./references/species-ref-key.jpg)
 
 
-Project Organization
+##Project Organization
 ------------
 
     ├── LICENSE
