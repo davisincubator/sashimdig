@@ -14,5 +14,7 @@
 * Remove nuisance features (like the boat) with mean subtraction
 * Use a pre-trained CNN
 * Try on black and white images (maybe also luminance detected)
-* Plot log loss functions and accuracy to help determine learning rate, maybe using tensorflow
+* Plot log loss functions and accuracy to help determine learning rate, maybe using tensorboard
 * Make sure our validation score is multi-class log loss (because that's what kaggle uses)
+* AWS
+* Running on the GPU
