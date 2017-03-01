@@ -37,5 +37,5 @@
 * use a pre-trained model (currently no one)
 * Possibly run on GPU (Jared) or AWS (Jason) as complexity increases this may become more important
 
-### Jasons resources:
-Jason please fill here
+### Jason's resources:
+* [CS231n ConvNet Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
